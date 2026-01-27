@@ -11,4 +11,4 @@ well nice bro
 - Smart Contracts
 - Airdrop farming
 
-this is the end
+this is the end ... no
