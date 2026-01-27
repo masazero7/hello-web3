@@ -10,3 +10,5 @@ well nice bro
 - Node.js
 - Smart Contracts
 - Airdrop farming
+
+this is the end
